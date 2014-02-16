@@ -1,0 +1,5 @@
+Changelog for call_me
+
+call_me 1.0
+====================================
+- Fixed bugs
